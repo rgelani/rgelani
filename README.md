@@ -26,7 +26,7 @@
   <a href="mailto:info.rgelani@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="https://leetcode.com/ruchitabhalala/" target="_blank">
+  <a href="https://leetcode.com/u/9wmu4PyGGJ/" target="_blank">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white">
   </a>
 </p>
