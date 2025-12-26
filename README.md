@@ -5,7 +5,7 @@
 
 <p align="center">
   <b>Full Stack Developer | Data Engineer | Based in Toronto 🇨🇦</b><br>
-  Building scalable apps with <b>Laravel, React, Node.js, Python</b> • Exploring <b>AI, Kafka, Airflow</b>
+  Building scalable apps with <b>Laravel, React, Python</b> • Exploring <b>AI, Kafka, Airflow</b>
 </p>
 
 ---
