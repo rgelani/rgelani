@@ -51,20 +51,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=666666" alt="Ruchita's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&stroke=2563eb&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="GitHub Streak" />
-</p>
-
----
-
-### 📂 Featured Open Source / Project Highlights
-- **[SaaS Subscription Logic]** - Exploring idempotent payment processing.
-- **[Data Pipeline Project]** - (If you have one) ETL processes using Python and Airflow.
-- **[Shopify App Boilerplate]** - Optimized Laravel-Shopify integration.
-
 <p align="center">
   <i>“Build it clean. Build it smart. Build it to last.”</i>
 </p>
